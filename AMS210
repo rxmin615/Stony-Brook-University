@@ -1,1 +1,58 @@
 
+AMS210 - Linear Algebra
+SUNY Korea (Stony Brook University)
+Freshman Year
+About
+This repository contains my notes and practice problems from AMS210: Linear Algebra.
+The course covered the fundamental concepts of linear algebra, including matrices, systems of linear equations, vector spaces, linear transformations, orthogonality, and eigenvalues. I created this repository to organize what I learned throughout the semester and to use it as a reference for future computer science courses.
+Topics Covered
+Systems of Linear Equations
+* Gaussian Elimination
+* Row Reduction
+* Echelon Form
+* Reduced Row Echelon Form (RREF)
+Matrices
+* Matrix Operations
+* Matrix Multiplication
+* Matrix Inverse
+* Identity Matrix
+* Elementary Matrices
+Determinants
+* Cofactor Expansion
+* Properties of Determinants
+* Invertibility
+Vector Spaces
+* Vectors
+* Linear Combinations
+* Span
+* Linear Independence
+* Basis
+* Dimension
+Linear Transformations
+* Matrix Representation
+* Kernel (Null Space)
+* Image (Column Space)
+* Rank
+* Nullity
+Orthogonality
+* Dot Product
+* Orthogonal Vectors
+* Orthogonal Projection
+* Orthonormal Basis
+* Gram-Schmidt Process
+Eigenvalues and Eigenvectors
+* Characteristic Polynomial
+* Eigenvalues
+* Eigenvectors
+* Diagonalization
+What I Learned
+After completing this course, I can:
+* Solve systems of linear equations using matrix methods.
+* Perform matrix operations and determine matrix invertibility.
+* Understand vector spaces, basis, and linear independence.
+* Compute eigenvalues and eigenvectors.
+* Apply linear algebra concepts that are commonly used in computer science.
+
+
+Future Plans
+I plan to continue updating this repository as I learn more advanced topics related to linear algebra, including numerical methods, singular value decomposition (SVD), principal component analysis (PCA), and their applications in machine learning and computer graphics.
