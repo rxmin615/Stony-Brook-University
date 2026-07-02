@@ -1,1 +1,57 @@
 
+CSE114 - Introduction to Java
+SUNY Korea (Stony Brook University)
+Freshman Year
+About
+This repository contains my notes and practice code from CSE114: Introduction to Java.
+The course introduced the fundamentals of programming with Java, starting from basic syntax and programming logic to object-oriented programming and introductory data structures. I created this repository to organize what I learned throughout the semester and to use it as a reference for future courses and personal projects.
+Topics Covered
+Java Basics
+* Variables
+* Primitive Data Types
+* Operators
+* User Input & Output
+* Type Casting
+Control Flow
+* if / else
+* switch
+* for loops
+* while loops
+* do-while loops
+Methods
+* Defining methods
+* Parameters
+* Return values
+* Method overloading
+* Variable scope
+Object-Oriented Programming
+* Classes and Objects
+* Constructors
+* Instance Variables
+* Static Variables
+* Encapsulation
+* Access Modifiers
+* Getter & Setter
+* Method Overloading
+* Method Overriding
+Arrays
+* One-dimensional arrays
+* Two-dimensional arrays
+* Searching
+Data Structures
+* Array
+* Linked List
+* ArrayList
+* Stack
+* Queue
+What I Learned
+After completing this course, I can:
+* Write programs using Java.
+* Design classes using object-oriented programming.
+* Choose appropriate data structures for simple problems.
+* Break problems into smaller methods.
+* Read, debug, and improve Java code.
+
+
+Future Plans
+I plan to continue updating this repository as I learn more advanced Java topics such as Generics, Collections, Exception Handling, File I/O, and Multithreading.
